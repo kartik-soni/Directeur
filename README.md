@@ -6,6 +6,7 @@ This application consisits of tabular view of following contents:
 3. Visitors
 4. Members according to their status(like left or current)
 5. Member's under a trainer.
+
 This program can evaluate staff's salary according to their working hours for the period of month selected by user.
 This program is very effective in making tedious jobs easy and faster.
 You can convert all tabular data into Excel files automatically just on a click of a button.
